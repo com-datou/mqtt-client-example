@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.datou</groupId>
-	<artifactId>com.datou.mqtt.test</artifactId>
+	<artifactId>datou-mqtt</artifactId>
 	<version>0.0.1</version>
 	<name>datou-mqtt</name>
 	<description>mqtt test</description>
